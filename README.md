@@ -127,4 +127,3 @@ I am particularly interested in building real-world products in **Education Tech
 
 ---
 
-*Last updated: February 2026*
