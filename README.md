@@ -10,7 +10,7 @@
   <a href="https://x.com/Rwehumbiza23">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
-  <a href="https://tiktok.com/@Occeed">
+  <a href="https://tiktok.com/@Ocdeed">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://behance.net/Octavian">
@@ -95,12 +95,12 @@ I am particularly interested in building real-world products in **Education Tech
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Occeed&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Occeed&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Occeed&theme=transparent&hide_border=true" alt="Contribution Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ocdeed&theme=default&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ I am particularly interested in building real-world products in **Education Tech
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Occeed&theme=transparent&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -116,13 +116,13 @@ I am particularly interested in building real-world products in **Education Tech
 ## 📈 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Occeed&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ocdeed&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Occeed&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
