@@ -1,129 +1,191 @@
-# 👋 Hi, I'm Octavian Rwehumbiza
-
-<p align="left">
-  <a href="https://linkedin.com/in/octavian-rwehumbiza-9ab195253">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rwehumbizaoctavian23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/Rwehumbiza23">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="https://tiktok.com/@Ocdeed">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://behance.net/Octavian">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
+<!-- ✨ P R O F I L E - S T A R T ✨ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Octavian%20Rwehumbiza&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
----
-
-## 💫 About Me
-
-I am a Full-Stack Software Engineer with hands-on experience designing, building, and maintaining end-to-end applications — from intuitive, high-performance user interfaces to robust backend services and databases.
-
-### What I Do
-
-- **Frontend Development**: Crafting responsive, accessible, and animated interfaces
-- **Backend Development**: Designing APIs, business logic, and system workflows
-- **Database Engineering**: Modeling data for performance, integrity, and scalability
-- **Cloud Infrastructure**: Deploying and maintaining applications in cloud environments
-
-### My Approach
-
-I don't just aim to make applications function — I focus on building systems that are scalable, maintainable, and understandable by other engineers. My key principles include:
-
-- Strong understanding of frontend–backend interaction
-- Clean API design and data flow
-- Performance-conscious engineering across the stack
-- Scalable folder structures and modular codebases
-- Thoughtful trade-offs between speed, complexity, and long-term maintainability
-
-### Interests
-
-I am particularly interested in building real-world products in **Education Tech**, **Health Tech**, and **productivity tools**, where software quality directly impacts people's daily lives.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-### Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!-- 👋 H E L L O -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hey, I'm Octavian Rwehumbiza
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+  <em>A passionate Full-Stack Software Engineer from Tanzania 🇹🇿</em>
 </p>
 
+<!-- 🔗 S O C I A L - L I N K S -->
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/octavian-rwehumbiza-9ab195253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:rwehumbizaoctavian23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
+  </a>
+  
+  <!-- X/Twitter -->
+  <a href="https://x.com/Rwehumbiza23" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X/Twitter" />
+  </a>
+  
+  <!-- TikTok -->
+  <a href="https://tiktok.com/@Ocdeed" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=FE2C55" alt="TikTok" />
+  </a>
+  
+  <!-- Behance -->
+  <a href="https://behance.net/Octavian" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&color=1769FF" alt="Behance" />
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white&color=00D4AA" alt="Portfolio" />
+  </a>
+
+</div>
+
+---
+
+<!-- 🖥️ A B O U T - M E -->
+<h2>
+  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/about_me.gif" width="25px">
+  About Me
+</h2>
+
+<p align="justify">
+  I'm a <strong>Full-Stack Software Engineer</strong> with hands-on experience designing, building, and maintaining end-to-end applications — from intuitive, high-performance user interfaces to robust backend services and databases.
+</p>
+
+### 🎯 What I Do
+- 💻 **Frontend Development**: Crafting responsive, accessible, and animated interfaces
+- ⚙️ **Backend Development**: Designing APIs, business logic, and system workflows
+- 🗄️ **Database Engineering**: Modeling data for performance, integrity, and scalability
+- ☁️ **Cloud Infrastructure**: Deploying and maintaining applications in cloud environments
+
+### 🧠 My Approach
+I don't just aim to make applications function — I focus on building systems that are **scalable**, **maintainable**, and **understandable** by other engineers.
+
+### 🌟 Interests
+I'm particularly interested in building real-world products in:
+- 📚 **Education Tech**
+- 🏥 **Health Tech**  
+- ⚡ **Productivity Tools**
+
+---
+
+<!-- 🛠️ T E C H - S T A C K -->
+<h2>
+  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/skills.png" width="25px">
+  Tech Stack
+</h2>
+
+### 🌍 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,java,rust,cpp&theme=dark" />
+</div>
+
+### 🎨 Frontend & UI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,threejs,figma&theme=dark" />
+</div>
+
+### ⚡ Backend & APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,redis,django,fastapi&theme=dark" />
+</div>
+
+### 🗄️ Databases & Storage
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,elasticsearch&theme=dark" />
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,netlify,nginx&theme=dark" />
+</div>
+
+### 🛠️ Tools & IDEs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker,vim&theme=dark" />
+</div>
+
+---
+
+<!-- 📊 G I T H U B - S T A T S -->
+<h2>
+  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/stats.png" width="25px">
+  GitHub Stats
+</h2>
+
+<div align="center">
+  
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D4AA&title_color=00D4AA&text_color=ffffff&bg_color=0d1117,161b22,30363d" height="180" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&icon_color=00D4AA&title_color=00D4AA&text_color=ffffff&bg_color=0d1117,161b22,30363d" height="180" alt="Top Languages" />
+  
+</div>
+
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ocdeed&theme=default&hide_border=true" alt="Contribution Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ocdeed&theme=radical&hide_border=true&background=0d1117&text_color=ffffff&ring_color=00D4AA&fire_color=00D4AA&curr_streak_color=00D4AA" alt="Contribution Streak" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- 🏆 A C H I E V E M E N T S -->
+<h2>
+  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/trophy.png" width="25px">
+  Achievements
+</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=radical&no-frame=false&no-bg=false&margin-w=4&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff&bg_color=0d1117" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📈 Top Contributed Repositories
+<!-- 📈 C O N T R I B U T I O N S -->
+<h2>
+  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/contribution.png" width="25px">
+  Top Contributions
+</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ocdeed&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ocdeed&limit=5&theme=radical&combine_all_yearly_contributions=true&icon_color=00D4AA&title_color=00D4AA&text_color=ffffff&bg_color=0d1117" alt="Top Contributed Repos" />
 </p>
 
 ---
 
+<!-- 👀 V I E W E R S -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=00D4AA&label=Profile+Views&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 ---
 
+<!-- 🐍 S N A K E - A N I M A T I O N -->
+<p align="center">
+  <img src="https://github.com/ platelet/ platelet/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<!-- 🙏 T H A N K S -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Thanks.gif" width="50px">
+</p>
+
+<p align="center">
+  <em>Thanks for visiting my profile! Let's build something amazing together. 🚀</em>
+</p>
+
+---
+
+<!-- ✨ P R O F I L E - E N D ✨ -->
