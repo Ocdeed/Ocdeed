@@ -125,16 +125,16 @@ I'm particularly interested in building real-world products in:
 <div align="center">
   
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D4AA&title_color=00D4AA&text_color=ffffff&bg_color=0d1117,161b22,30363d" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&icon_color=00D4AA&title_color=00D4AA&text_color=ffffff&bg_color=0d1117,161b22,30363d" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
   
 </div>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ocdeed&theme=radical&hide_border=true&background=0d1117&text_color=ffffff&ring_color=00D4AA&fire_color=00D4AA&curr_streak_color=00D4AA" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ocdeed&theme=github-dark&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
@@ -146,34 +146,22 @@ I'm particularly interested in building real-world products in:
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=radical&no-frame=false&no-bg=false&margin-w=4&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff&bg_color=0d1117" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- 📈 C O N T R I B U T I O N S -->
-<h2>
-  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/contribution.png" width="25px">
-  Top Contributions
-</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ocdeed&limit=5&theme=radical&combine_all_yearly_contributions=true&icon_color=00D4AA&title_color=00D4AA&text_color=ffffff&bg_color=0d1117" alt="Top Contributed Repos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <!-- 👀 V I E W E R S -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=00D4AA&label=Profile+Views&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=00D4AA&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
 <!-- 🐍 S N A K E - A N I M A T I O N -->
-<p align="center">
-  <img src="https://github.com/ platelet/ platelet/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platelet/platelet/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
