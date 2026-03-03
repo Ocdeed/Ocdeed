@@ -1,6 +1,6 @@
 <!-- ✨ P R O F I L E - S T A R T ✨ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ocdeed%20Codes&fontSize=70&fontAlignY=35&text_color=FFFFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fffdd0&height=200&section=header&text=Ocdeed%20Codes&fontSize=70&fontAlignY=35&text_color=FFFFFF&animation=fadeIn" width="100%" />
 </p>
 
 <!-- 🔗 S O C I A L - L I N K S -->
