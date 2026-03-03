@@ -1,17 +1,17 @@
 <!-- ✨ P R O F I L E - S T A R T ✨ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Octavian%20Rwehumbiza&fontSize=90&animation=fadeIn&fontAlignY=35&text_color=58A6FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Ocdeed%20Codes&fontSize=80&fontAlignY=40&text_color=39D353&animation=fadeIn" width="100%" />
 </p>
 
 <!-- 👋 H E L L O -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  Hey, I'm Octavian Rwehumbiza
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
-
 <p align="center">
-  <em>A passionate Full-Stack Software Engineer from Tanzania 🇹🇿</em>
+<pre style="background:#0D1117;color:#39D353;font-family:monospace;font-size:16px;padding:20px;border-radius:10px;border:1px solid #30363D">
+┌─────────────────────────────────────────────┐
+│  > Hello, I'm Octavian Rwehumbiza          │
+│  > Full-Stack Software Engineer             │
+│  > From Tanzania 🇹🇿                        │
+└─────────────────────────────────────────────┘
+</pre>
 </p>
 
 <!-- 🔗 S O C I A L - L I N K S -->
@@ -110,49 +110,25 @@ I'm particularly interested in building real-world products in:
 
 ---
 
-<!-- 📊 G I T H U B - S T A T S -->
-<h2>📊 GitHub Stats</h2>
+<!-- 🔥 S T R E A K - S T A T S -->
+<h2>🔥 Contribution Streak</h2>
 
-<div align="center">
-  
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
-  
-</div>
-
-### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ocdeed&theme=github-dark&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
 
-<!-- 🏆 A C H I E V E M E N T S -->
-<h2>🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 <!-- 👀 V I E W E R S -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=39D353&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
 <!-- 🙏 T H A N K S -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Thanks.gif" width="50px">
-</p>
-
-<p align="center">
-  <em>Thanks for visiting my profile! Let's build something amazing together. 🚀</em>
+  <em>Thanks for visiting! Let's build something amazing together. 🚀</em>
 </p>
 
 ---
