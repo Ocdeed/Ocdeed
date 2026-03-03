@@ -1,6 +1,6 @@
 <!-- ✨ P R O F I L E - S T A R T ✨ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Octavian%20Rwehumbiza&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Octavian%20Rwehumbiza&fontSize=90&animation=fadeIn&fontAlignY=35&text_color=58A6FF" width="100%" />
 </p>
 
 <!-- 👋 H E L L O -->
@@ -52,10 +52,7 @@
 ---
 
 <!-- 🖥️ A B O U T - M E -->
-<h2>
-  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/about_me.gif" width="25px">
-  About Me
-</h2>
+<h2>💫 About Me</h2>
 
 <p align="justify">
   I'm a <strong>Full-Stack Software Engineer</strong> with hands-on experience designing, building, and maintaining end-to-end applications — from intuitive, high-performance user interfaces to robust backend services and databases.
@@ -79,10 +76,7 @@ I'm particularly interested in building real-world products in:
 ---
 
 <!-- 🛠️ T E C H - S T A C K -->
-<h2>
-  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/skills.png" width="25px">
-  Tech Stack
-</h2>
+<h2>🛠️ Tech Stack</h2>
 
 ### 🌍 Languages
 <div align="center">
@@ -117,51 +111,38 @@ I'm particularly interested in building real-world products in:
 ---
 
 <!-- 📊 G I T H U B - S T A T S -->
-<h2>
-  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/stats.png" width="25px">
-  GitHub Stats
-</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
   
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ocdeed&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocdeed&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
   
 </div>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ocdeed&theme=github-dark&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ocdeed&theme=github-dark&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
 
 <!-- 🏆 A C H I E V E M E N T S -->
-<h2>
-  <img src="https://raw.githubusercontent.com/ platelet/ platelet/master/images/icons/trophy.png" width="25px">
-  Achievements
-</h2>
+<h2>🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ocdeed&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <!-- 👀 V I E W E R S -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=00D4AA&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ocdeed&style=flat&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </p>
-
----
-
-<!-- 🐍 S N A K E - A N I M A T I O N -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platelet/platelet/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
