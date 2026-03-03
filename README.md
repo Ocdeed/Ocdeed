@@ -3,17 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ocdeed%20Codes&fontSize=70&fontAlignY=35&text_color=39D353&animation=fadeIn" width="100%" />
 </p>
 
-<!-- 👋 H E L L O -->
-<p align="center">
-<pre style="background:#0D1117;color:#39D353;font-family:monospace;font-size:16px;padding:20px;border-radius:10px;border:1px solid #30363D">
-┌─────────────────────────────────────────────┐
-│  > Hello, I'm Octavian Rwehumbiza          │
-│  > Full-Stack Software Engineer             │
-│  > From Tanzania 🇹🇿                        │
-└─────────────────────────────────────────────┘
-</pre>
-</p>
-
 <!-- 🔗 S O C I A L - L I N K S -->
 <div align="center">
 
