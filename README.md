@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1769FF,100:00D4AA&height=220&section=header&text=Octavian%20Rwehumbiza&fontSize=52&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1769FF,100:00D4AA&height=220&section=header&text=Ocdeed%20Codes&fontSize=52&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
 <a href="https://linkedin.com/in/octavian-rwehumbiza-9ab195253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rwehumbizaoctavian23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/Rwehumbiza23"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://tiktok.com/@Ocdeed"><img src="https://img.shields.io/badge/TikTok-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://behance.net/Octavian"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://ocdeedcodes.tech"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
@@ -118,11 +118,9 @@ Deploying & maintaining production apps
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ocdeed/Ocdeed/output/github-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Ocdeed/Ocdeed/output/dist/github-snake-dark.svg" width="100%" />
 
 </div>
-
-> If the snake graph above hasn't generated yet, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action on this repo — it auto-generates from your real contribution graph.
 
 ---
 
